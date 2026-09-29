@@ -36,7 +36,7 @@ export default function Navigation() {
             <div className="relative w-9 h-9 md:w-10 md:h-10">
               <img
                 src="/logo.png"
-                alt="SCONVERGE IMMOBILIER"
+                alt="SCONVEGE IMMOBILIER"
                 className="w-full h-full object-contain drop-shadow-sm group-hover:drop-shadow-md transition-shadow"
                 width={40}
                 height={40}
@@ -44,7 +44,7 @@ export default function Navigation() {
             </div>
             <div className="hidden sm:block">
               <span className="font-serif text-lg md:text-xl font-bold text-[#0f172a] tracking-tight">
-                SCONVERGE
+                SCONVEGE
               </span>
               <span className="font-sans text-[10px] md:text-xs font-semibold uppercase tracking-[0.18em] text-[#b45309] ml-1">
                 IMMOBILIER

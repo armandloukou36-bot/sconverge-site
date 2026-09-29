@@ -77,13 +77,13 @@ export default function AboutSection() {
               <h2 className="section-title mb-4">
                 L'immobilier avec{' '}
                 <span className="gold-text">l'excellence</span>
-                {' '}de SCONVERGE
+                {' '}de SCONVEGE
               </h2>
             </div>
 
             <div className="space-y-4 text-[#475569] leading-relaxed">
               <p>
-                SCONVERGE IMMOBILIER est une agence immobilière de standing basée à Cocody Angré, Abidjan.
+                SCONVEGE IMMOBILIER est une agence immobilière de standing basée à Cocody Angré, Abidjan.
                 Depuis notre création, nous mettons notre expertise au service de ceux qui souhaitent acheter,
                 vendre, louer ou investir dans le patrimoine immobilier.
               </p>

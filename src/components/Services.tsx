@@ -99,7 +99,7 @@ export default function ServicesSection() {
             {' '}pour votre patrimoine
           </h2>
           <p className="section-subtitle mx-auto">
-            De l\'achat à la gestion, de la construction au conseil — SCONVERGE IMMOBILIER vous accompagne
+            De l\'achat à la gestion, de la construction au conseil — SCONVEGE IMMOBILIER vous accompagne
             avec expertise et transparence à chaque étape de votre projet immobilier.
           </p>
         </div>

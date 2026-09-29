@@ -2,7 +2,7 @@ const testimonials = [
   {
     name: 'Jean-Marie B.',
     role: 'Acquéreur',
-    text: 'SCONVERGE a facilité notre premier achat immobilier à Abidjan. Professionnels, transparents et toujours à l\'écoute. Nous recommandons vivement.',
+    text: 'SCONVEGE a facilité notre premier achat immobilier à Abidjan. Professionnels, transparents et toujours à l\'écoute. Nous recommandons vivement.',
     rating: 5,
     avatar: 'JB',
     color: 'from-amber-400 to-amber-600',
@@ -10,7 +10,7 @@ const testimonials = [
   {
     name: 'Cécile D.',
     role: 'Location',
-    text: 'J\'ai loué mon appartement via SCONVERGE. Le processus était rapide et le bien correspondait parfaitement à mes critères. Service irréprochable.',
+    text: 'J\'ai loué mon appartement via SCONVEGE. Le processus était rapide et le bien correspondait parfaitement à mes critères. Service irréprochable.',
     rating: 5,
     avatar: 'CD',
     color: 'from-amber-300 to-amber-500',
@@ -18,7 +18,7 @@ const testimonials = [
   {
     name: 'Samuel K.',
     role: 'Investisseur',
-    text: 'La gestion de mes biens par SCONVERGE est exemplaire. Loyers encaissés régulièrement, communication transparente, zéro souci pour moi.',
+    text: 'La gestion de mes biens par SCONVEGE est exemplaire. Loyers encaissés régulièrement, communication transparente, zéro souci pour moi.',
     rating: 5,
     avatar: 'SK',
     color: 'from-amber-500 to-amber-700',

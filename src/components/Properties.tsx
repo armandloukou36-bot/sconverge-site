@@ -63,7 +63,7 @@ const properties = [
     beds: 5,
     baths: 3,
     surface: '420 m²',
-    image: 'https://images.unsplash.com/photo-1600566753086-00f18fb6b3c1?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80',
     featured: true,
     available: 'Disponible',
     availableColor: 'bg-green-500',

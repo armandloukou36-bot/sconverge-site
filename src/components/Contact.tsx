@@ -161,7 +161,7 @@ export default function ContactSection() {
                   </div>
                   <h3 className="text-xl font-bold text-white mb-2">Message envoyé !</h3>
                   <p className="text-blue-200/60 text-sm">
-                    Merci pour votre message. L'équipe SCONVERGE vous contactera sous 24h.
+                    Merci pour votre message. L'équipe SCONVEGE vous contactera sous 24h.
                   </p>
                 </div>
               ) : (

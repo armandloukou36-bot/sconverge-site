@@ -12,14 +12,14 @@ export default function Footer() {
               <div className="w-8 h-8 relative">
                 <img
                   src="/logo.png"
-                  alt="SCONVERGE IMMOBILIER"
+                  alt="SCONVEGE IMMOBILIER"
                   className="w-full h-full object-contain"
                   width={32}
                   height={32}
                 />
               </div>
               <div>
-                <span className="font-serif text-base font-bold text-white tracking-tight">SCONVERGE</span>
+                <span className="font-serif text-base font-bold text-white tracking-tight">SCONVEGE</span>
                 <span className="font-sans text-[10px] font-semibold uppercase tracking-[0.2em] text-amber-500 ml-1">IMMOBILIER</span>
               </div>
             </div>
@@ -123,7 +123,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-blue-200/40 text-xs text-center sm:text-left">
-            &copy; {currentYear} SCONVERGE IMMOBILIER. Tous droits réservés.
+            &copy; {currentYear} SCONVEGE IMMOBILIER. Tous droits réservés.
           </p>
           <div className="flex items-center gap-6 text-blue-200/40 text-xs">
             <a href="#" className="hover:text-amber-400/60 transition-colors">Mentions légales</a>

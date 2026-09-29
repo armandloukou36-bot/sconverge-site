@@ -17,20 +17,20 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: 'SCONVERGE IMMOBILIER — Votre avenir immobilier sûr et réussi',
+  title: 'SCONVEGE IMMOBILIER — Votre avenir immobilier sûr et réussi',
   description: 'Agence immobilière à Abidjan, Cocody Angré. Achat, vente, location et gestion immobilière de qualité. Votre projet, notre priorité.',
-  keywords: ['immobilier', 'Abidjan', 'achat', 'vente', 'location', 'gestion immobilière', 'SCONVERGE'],
-  authors: [{ name: 'SCONVERGE IMMOBILIER' }],
+  keywords: ['immobilier', 'Abidjan', 'achat', 'vente', 'location', 'gestion immobilière', 'SCONVEGE'],
+  authors: [{ name: 'SCONVEGE IMMOBILIER' }],
   openGraph: {
-    title: 'SCONVERGE IMMOBILIER — Votre avenir immobilier sûr et réussi',
+    title: 'SCONVEGE IMMOBILIER — Votre avenir immobilier sûr et réussi',
     description: 'Agence immobilière premium à Abidjan. Achat, vente, location et gestion immobilière.',
     type: 'website',
     locale: 'fr_FR',
-    siteName: 'SCONVERGE IMMOBILIER',
+    siteName: 'SCONVEGE IMMOBILIER',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'SCONVERGE IMMOBILIER — Votre avenir immobilier sûr et réussi',
+    title: 'SCONVEGE IMMOBILIER — Votre avenir immobilier sûr et réussi',
     description: 'Agence immobilière premium à Abidjan. Achat, vente, location et gestion immobilière.',
   },
   icons: {
